@@ -1,0 +1,350 @@
+// variant 2 as portrait , maybe... i`ll go for count < 30 and above 30?
+{
+  "result_type": 15,
+  "light": 0,
+  "buf_length": 8,
+  "list_idx": 0,
+  "page_idx": 0,
+  "XML_buffer": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<!--Regula Reader result file-->\n<DOC_OCR_LEXICAL_ANALYSIS_DATA>\n\t<PageIndex>0</PageIndex>\n\t<Info>\n\t\t<DateTime>2021-03-04T18:38:34.000</DateTime>\n\t\t<TransactionID>eb201448-16d5-4ec0-ac7b-256de8cb0f3e</TransactionID>\n\t\t<ComputerName>ANDI-BOYA</ComputerName>\n\t\t<UserName>SYSTEM</UserName>\n\t\t<SDKVersion>5.4.0.4930</SDKVersion>\n\t\t<Version>5.4</Version>\n\t\t<DeviceType>7017 (OV 5Mp)</DeviceType>\n\t\t<DeviceNumber>0x1096e8aa</DeviceNumber>\n\t\t<DeviceLabelSerialNumber>7DF335BA8667</DeviceLabelSerialNumber>\n\t</Info>\n\t<DateFormat>M/d/yyyy</DateFormat>\n\t<Document_Field_Analysis_Info>\n\t\t<FieldType>1</FieldType>\n\t\t<Type>1</Type>\n\t\t<LCID>0</LCID>\n\t\t<Field_MRZ/>\n\t\t<Field_RFID/>\n\t\t<Field_Barcode/>\n\t\t<Field_Visual>BGR</Field_Visual>\n\t\t<Matrix1>0</Matrix1>\n\t\t<Matrix2>0</Matrix2>\n\t\t<Matrix3>0</Matrix3>\n\t\t<Matrix4>0</Matrix4>\n\t\t<Matrix5>0</Matrix5>\n\t\t<Matrix6>0</Matrix6>\n\t\t<Matrix7>0</Matrix7>\n\t\t<Matrix8>0</Matrix8>\n\t\t<Matrix9>0</Matrix9>\n\t\t<Matrix10>0</Matrix10>\n\t</Document_Field_Analysis_Info>\n\t<Document_Field_Analysis_Info>\n\t\t<FieldType>2</FieldType>\n\t\t<Type>2</Type>\n\t\t<LCID>0</LCID>\n\t\t<Field_MRZ/>\n\t\t<Field_RFID/>\n\t\t<Field_Barcode/>\n\t\t<Field_Visual>648969622</Field_Visual>\n\t\t<Matrix1>0</Matrix1>\n\t\t<Matrix2>0</Matrix2>\n\t\t<Matrix3>0</Matrix3>\n\t\t<Matrix4>0</Matrix4>\n\t\t<Matrix5>0</Matrix5>\n\t\t<Matrix6>0</Matrix6>\n\t\t<Matrix7>0</Matrix7>\n\t\t<Matrix8>0</Matrix8>\n\t\t<Matrix9>0</Matrix9>\n\t\t<Matrix10>0</Matrix10>\n\t</Document_Field_Analysis_Info>\n\t<Document_Field_Analysis_Info>\n\t\t<FieldType>3</FieldType>\n\t\t<Type>3</Type>\n\t\t<LCID>0</LCID>\n\t\t<Field_MRZ/>\n\t\t<Field_RFID/>\n\t\t<Field_Barcode/>\n\t\t<Field_Visual>5/20/2030</Field_Visual>\n\t\t<Matrix1>0</Matrix1>\n\t\t<Matrix2>0</Matrix2>\n\t\t<Matrix3>0</Matrix3>\n\t\t<Matrix4>0</Matrix4>\n\t\t<Matrix5>0</Matrix5>\n\t\t<Matrix6>0</Matrix6>\n\t\t<Matrix7>0</Matrix7>\n\t\t<Matrix8>0</Matrix8>\n\t\t<Matrix9>0</Matrix9>\n\t\t<Matrix10>0</Matrix10>\n\t</Document_Field_Analysis_Info>\n\t<Document_Field_Analysis_Info>\n\t\t<FieldType>5</FieldType>\n\t\t<Type>5</Type>\n\t\t<LCID>0</LCID>\n\t\t<Field_MRZ/>\n\t\t<Field_RFID/>\n\t\t<Field_Barcode/>\n\t\t<Field_Visual>12/30/1992</Field_Visual>\n\t\t<Matrix1>0</Matrix1>\n\t\t<Matrix2>0</Matrix2>\n\t\t<Matrix3>0</Matrix3>\n\t\t<Matrix4>0</Matrix4>\n\t\t<Matrix5>0</Matrix5>\n\t\t<Matrix6>0</Matrix6>\n\t\t<Matrix7>0</Matrix7>\n\t\t<Matrix8>0</Matrix8>\n\t\t<Matrix9>0</Matrix9>\n\t\t<Matrix10>0</Matrix10>\n\t</Document_Field_Analysis_Info>\n\t<Document_Field_Analysis_Info>\n\t\t<FieldType>7</FieldType>\n\t\t<Type>7</Type>\n\t\t<LCID>0</LCID>\n\t\t<Field_MRZ/>\n\t\t<Field_RFID/>\n\t\t<Field_Barcode/>\n\t\t<Field_Visual>9212300986</Field_Visual>\n\t\t<Matrix1>0</Matrix1>\n\t\t<Matrix2>0</Matrix2>\n\t\t<Matrix3>0</Matrix3>\n\t\t<Matrix4>0</Matrix4>\n\t\t<Matrix5>0</Matrix5>\n\t\t<Matrix6>0</Matrix6>\n\t\t<Matrix7>0</Matrix7>\n\t\t<Matrix8>0</Matrix8>\n\t\t<Matrix9>0</Matrix9>\n\t\t<Matrix10>0</Matrix10>\n\t</Document_Field_Analysis_Info>\n\t<Document_Field_Analysis_Info>\n\t\t<FieldType>67239944</FieldType>\n\t\t<Type>8</Type>\n\t\t<LCID>1026</LCID>\n\t\t<Field_MRZ/>\n\t\t<Field_RFID/>\n\t\t<Field_Barcode/>\n\t\t<Field_Visual>БОЯДЖИЕВ</Field_Visual>\n\t\t<Matrix1>0</Matrix1>\n\t\t<Matrix2>0</Matrix2>\n\t\t<Matrix3>0</Matrix3>\n\t\t<Matrix4>0</Matrix4>\n\t\t<Matrix5>0</Matrix5>\n\t\t<Matrix6>0</Matrix6>\n\t\t<Matrix7>0</Matrix7>\n\t\t<Matrix8>0</Matrix8>\n\t\t<Matrix9>0</Matrix9>\n\t\t<Matrix10>0</Matrix10>\n\t</Document_Field_Analysis_Info>\n\t<Document_Field_Analysis_Info>\n\t\t<FieldType>8</FieldType>\n\t\t<Type>8</Type>\n\t\t<LCID>0</LCID>\n\t\t<Field_MRZ/>\n\t\t<Field_RFID/>\n\t\t<Field_Barcode/>\n\t\t<Field_Visual>BOYADZHIEV</Field_Visual>\n\t\t<Matrix1>0</Matrix1>\n\t\t<Matrix2>0</Matrix2>\n\t\t<Matrix3>0</Matrix3>\n\t\t<Matrix4>0</Matrix4>\n\t\t<Matrix5>0</Matrix5>\n\t\t<Matrix6>0</Matrix6>\n\t\t<Matrix7>0</Matrix7>\n\t\t<Matrix8>0</Matrix8>\n\t\t<Matrix9>0</Matrix9>\n\t\t<Matrix10>0</Matrix10>\n\t</Document_Field_Analysis_Info>\n\t<Document_Field_Analysis_Info>\n\t\t<FieldType>67239945</FieldType>\n\t\t<Type>9</Type>\n\t\t<LCID>1026</LCID>\n\t\t<Field_MRZ/>\n\t\t<Field_RFID/>\n\t\t<Field_Barcode/>\n\t\t<Field_Visual>АНДРЕЯН</Field_Visual>\n\t\t<Matrix1>0</Matrix1>\n\t\t<Matrix2>0</Matrix2>\n\t\t<Matrix3>0</Matrix3>\n\t\t<Matrix4>0</Matrix4>\n\t\t<Matrix5>0</Matrix5>\n\t\t<Matrix6>0</Matrix6>\n\t\t<Matrix7>0</Matrix7>\n\t\t<Matrix8>0</Matrix8>\n\t\t<Matrix9>0</Matrix9>\n\t\t<Matrix10>0</Matrix10>\n\t</Document_Field_Analysis_Info>\n\t<Document_Field_Analysis_Info>\n\t\t<FieldType>9</FieldType>\n\t\t<Type>9</Type>\n\t\t<LCID>0</LCID>\n\t\t<Field_MRZ/>\n\t\t<Field_RFID/>\n\t\t<Field_Barcode/>\n\t\t<Field_Visual>ANDREYAN</Field_Visual>\n\t\t<Matrix1>0</Matrix1>\n\t\t<Matrix2>0</Matrix2>\n\t\t<Matrix3>0</Matrix3>\n\t\t<Matrix4>0</Matrix4>\n\t\t<Matrix5>0</Matrix5>\n\t\t<Matrix6>0</Matrix6>\n\t\t<Matrix7>0</Matrix7>\n\t\t<Matrix8>0</Matrix8>\n\t\t<Matrix9>0</Matrix9>\n\t\t<Matrix10>0</Matrix10>\n\t</Document_Field_Analysis_Info>\n\t<Document_Field_Analysis_Info>\n\t\t<FieldType>67239948</FieldType>\n\t\t<Type>12</Type>\n\t\t<LCID>1026</LCID>\n\t\t<Field_MRZ/>\n\t\t<Field_RFID/>\n\t\t<Field_Barcode/>\n\t\t<Field_Visual>М</Field_Visual>\n\t\t<Matrix1>0</Matrix1>\n\t\t<Matrix2>0</Matrix2>\n\t\t<Matrix3>0</Matrix3>\n\t\t<Matrix4>0</Matrix4>\n\t\t<Matrix5>0</Matrix5>\n\t\t<Matrix6>0</Matrix6>\n\t\t<Matrix7>0</Matrix7>\n\t\t<Matrix8>0</Matrix8>\n\t\t<Matrix9>0</Matrix9>\n\t\t<Matrix10>0</Matrix10>\n\t</Document_Field_Analysis_Info>\n\t<Document_Field_Analysis_Info>\n\t\t<FieldType>12</FieldType>\n\t\t<Type>12</Type>\n\t\t<LCID>0</LCID>\n\t\t<Field_MRZ/>\n\t\t<Field_RFID/>\n\t\t<Field_Barcode/>\n\t\t<Field_Visual>M</Field_Visual>\n\t\t<Matrix1>0</Matrix1>\n\t\t<Matrix2>0</Matrix2>\n\t\t<Matrix3>0</Matrix3>\n\t\t<Matrix4>0</Matrix4>\n\t\t<Matrix5>0</Matrix5>\n\t\t<Matrix6>0</Matrix6>\n\t\t<Matrix7>0</Matrix7>\n\t\t<Matrix8>0</Matrix8>\n\t\t<Matrix9>0</Matrix9>\n\t\t<Matrix10>0</Matrix10>\n\t</Document_Field_Analysis_Info>\n\t<Document_Field_Analysis_Info>\n\t\t<FieldType>67239961</FieldType>\n\t\t<Type>25</Type>\n\t\t<LCID>1026</LCID>\n\t\t<Field_MRZ/>\n\t\t<Field_RFID/>\n\t\t<Field_Barcode/>\n\t\t<Field_Visual>БОЯДЖИЕВ АНДРЕЯН ЕНЧЕВ</Field_Visual>\n\t\t<Matrix1>0</Matrix1>\n\t\t<Matrix2>0</Matrix2>\n\t\t<Matrix3>0</Matrix3>\n\t\t<Matrix4>0</Matrix4>\n\t\t<Matrix5>0</Matrix5>\n\t\t<Matrix6>0</Matrix6>\n\t\t<Matrix7>0</Matrix7>\n\t\t<Matrix8>0</Matrix8>\n\t\t<Matrix9>0</Matrix9>\n\t\t<Matrix10>0</Matrix10>\n\t</Document_Field_Analysis_Info>\n\t<Document_Field_Analysis_Info>\n\t\t<FieldType>25</FieldType>\n\t\t<Type>25</Type>\n\t\t<LCID>0</LCID>\n\t\t<Field_MRZ/>\n\t\t<Field_RFID/>\n\t\t<Field_Barcode/>\n\t\t<Field_Visual>BOYADZHIEV ANDREYAN</Field_Visual>\n\t\t<Matrix1>0</Matrix1>\n\t\t<Matrix2>0</Matrix2>\n\t\t<Matrix3>0</Matrix3>\n\t\t<Matrix4>0</Matrix4>\n\t\t<Matrix5>0</Matrix5>\n\t\t<Matrix6>0</Matrix6>\n\t\t<Matrix7>0</Matrix7>\n\t\t<Matrix8>0</Matrix8>\n\t\t<Matrix9>0</Matrix9>\n\t\t<Matrix10>0</Matrix10>\n\t</Document_Field_Analysis_Info>\n\t<Document_Field_Analysis_Info>\n\t\t<FieldType>38</FieldType>\n\t\t<Type>38</Type>\n\t\t<LCID>0</LCID>\n\t\t<Field_MRZ/>\n\t\t<Field_RFID/>\n\t\t<Field_Barcode/>\n\t\t<Field_Visual>Bulgaria</Field_Visual>\n\t\t<Matrix1>0</Matrix1>\n\t\t<Matrix2>0</Matrix2>\n\t\t<Matrix3>0</Matrix3>\n\t\t<Matrix4>0</Matrix4>\n\t\t<Matrix5>0</Matrix5>\n\t\t<Matrix6>0</Matrix6>\n\t\t<Matrix7>0</Matrix7>\n\t\t<Matrix8>0</Matrix8>\n\t\t<Matrix9>0</Matrix9>\n\t\t<Matrix10>0</Matrix10>\n\t</Document_Field_Analysis_Info>\n\t<Document_Field_Analysis_Info>\n\t\t<FieldType>67240065</FieldType>\n\t\t<Type>129</Type>\n\t\t<LCID>1026</LCID>\n\t\t<Field_MRZ/>\n\t\t<Field_RFID/>\n\t\t<Field_Barcode/>\n\t\t<Field_Visual>ЕНЧЕВ</Field_Visual>\n\t\t<Matrix1>0</Matrix1>\n\t\t<Matrix2>0</Matrix2>\n\t\t<Matrix3>0</Matrix3>\n\t\t<Matrix4>0</Matrix4>\n\t\t<Matrix5>0</Matrix5>\n\t\t<Matrix6>0</Matrix6>\n\t\t<Matrix7>0</Matrix7>\n\t\t<Matrix8>0</Matrix8>\n\t\t<Matrix9>0</Matrix9>\n\t\t<Matrix10>0</Matrix10>\n\t</Document_Field_Analysis_Info>\n\t<Document_Field_Analysis_Info>\n\t\t<FieldType>129</FieldType>\n\t\t<Type>129</Type>\n\t\t<LCID>0</LCID>\n\t\t<Field_MRZ/>\n\t\t<Field_RFID/>\n\t\t<Field_Barcode/>\n\t\t<Field_Visual>ENCHEV</Field_Visual>\n\t\t<Matrix1>0</Matrix1>\n\t\t<Matrix2>0</Matrix2>\n\t\t<Matrix3>0</Matrix3>\n\t\t<Matrix4>0</Matrix4>\n\t\t<Matrix5>0</Matrix5>\n\t\t<Matrix6>0</Matrix6>\n\t\t<Matrix7>0</Matrix7>\n\t\t<Matrix8>0</Matrix8>\n\t\t<Matrix9>0</Matrix9>\n\t\t<Matrix10>0</Matrix10>\n\t</Document_Field_Analysis_Info>\n\t<Document_Field_Analysis_Info>\n\t\t<FieldType>185</FieldType>\n\t\t<Type>185</Type>\n\t\t<LCID>0</LCID>\n\t\t<Field_MRZ/>\n\t\t<Field_RFID/>\n\t\t<Field_Barcode/>\n\t\t<Field_Visual>28</Field_Visual>\n\t\t<Matrix1>0</Matrix1>\n\t\t<Matrix2>0</Matrix2>\n\t\t<Matrix3>0</Matrix3>\n\t\t<Matrix4>0</Matrix4>\n\t\t<Matrix5>0</Matrix5>\n\t\t<Matrix6>0</Matrix6>\n\t\t<Matrix7>0</Matrix7>\n\t\t<Matrix8>0</Matrix8>\n\t\t<Matrix9>0</Matrix9>\n\t\t<Matrix10>0</Matrix10>\n\t</Document_Field_Analysis_Info>\n\t<Document_Field_Analysis_Info>\n\t\t<FieldType>364</FieldType>\n\t\t<Type>364</Type>\n\t\t<LCID>0</LCID>\n\t\t<Field_MRZ/>\n\t\t<Field_RFID/>\n\t\t<Field_Barcode/>\n\t\t<Field_Visual>110</Field_Visual>\n\t\t<Matrix1>0</Matrix1>\n\t\t<Matrix2>0</Matrix2>\n\t\t<Matrix3>0</Matrix3>\n\t\t<Matrix4>0</Matrix4>\n\t\t<Matrix5>0</Matrix5>\n\t\t<Matrix6>0</Matrix6>\n\t\t<Matrix7>0</Matrix7>\n\t\t<Matrix8>0</Matrix8>\n\t\t<Matrix9>0</Matrix9>\n\t\t<Matrix10>0</Matrix10>\n\t</Document_Field_Analysis_Info>\n</DOC_OCR_LEXICAL_ANALYSIS_DATA>\n",
+  "ListVerifiedFields": {
+    "Count": 18,
+    "pFieldMaps": [
+      {
+        "FieldType": 1,
+        "wFieldType": 1,
+        "wLCID": 0,
+        "Field_Visual": "BGR",
+        "Matrix": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "FieldType": 2,
+        "wFieldType": 2,
+        "wLCID": 0,
+        "Field_Visual": "648969622",
+        "Matrix": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "FieldType": 3,
+        "wFieldType": 3,
+        "wLCID": 0,
+        "Field_Visual": "5/20/2030",
+        "Matrix": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "FieldType": 5,
+        "wFieldType": 5,
+        "wLCID": 0,
+        "Field_Visual": "12/30/1992",
+        "Matrix": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "FieldType": 7,
+        "wFieldType": 7,
+        "wLCID": 0,
+        "Field_Visual": "9212300986",
+        "Matrix": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "FieldType": 67239944,
+        "wFieldType": 8,
+        "wLCID": 1026,
+        "Field_Visual": "БОЯДЖИЕВ",
+        "Matrix": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "FieldType": 8,
+        "wFieldType": 8,
+        "wLCID": 0,
+        "Field_Visual": "BOYADZHIEV",
+        "Matrix": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "FieldType": 67239945,
+        "wFieldType": 9,
+        "wLCID": 1026,
+        "Field_Visual": "АНДРЕЯН",
+        "Matrix": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "FieldType": 9,
+        "wFieldType": 9,
+        "wLCID": 0,
+        "Field_Visual": "ANDREYAN",
+        "Matrix": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "FieldType": 67239948,
+        "wFieldType": 12,
+        "wLCID": 1026,
+        "Field_Visual": "М",
+        "Matrix": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "FieldType": 12,
+        "wFieldType": 12,
+        "wLCID": 0,
+        "Field_Visual": "M",
+        "Matrix": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "FieldType": 67239961,
+        "wFieldType": 25,
+        "wLCID": 1026,
+        "Field_Visual": "БОЯДЖИЕВ АНДРЕЯН ЕНЧЕВ",
+        "Matrix": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "FieldType": 25,
+        "wFieldType": 25,
+        "wLCID": 0,
+        "Field_Visual": "BOYADZHIEV ANDREYAN",
+        "Matrix": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "FieldType": 38,
+        "wFieldType": 38,
+        "wLCID": 0,
+        "Field_Visual": "Bulgaria",
+        "Matrix": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "FieldType": 67240065,
+        "wFieldType": 129,
+        "wLCID": 1026,
+        "Field_Visual": "ЕНЧЕВ",
+        "Matrix": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "FieldType": 129,
+        "wFieldType": 129,
+        "wLCID": 0,
+        "Field_Visual": "ENCHEV",
+        "Matrix": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "FieldType": 185,
+        "wFieldType": 185,
+        "wLCID": 0,
+        "Field_Visual": "28",
+        "Matrix": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "FieldType": 364,
+        "wFieldType": 364,
+        "wLCID": 0,
+        "Field_Visual": "110",
+        "Matrix": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "pDateFormat": "M/d/yyyy"
+  },
+  "Info": {
+    "DateTime": "2021-03-04T18:38:34.271",
+    "TransactionID": "eb201448-16d5-4ec0-ac7b-256de8cb0f3e",
+    "ComputerName": "ANDI-BOYA",
+    "UserName": "SYSTEM",
+    "SDKVersion": "5.4.0.4930",
+    "FileVersion": "5.4",
+    "DeviceType": "7017 (OV 5Mp)",
+    "DeviceNumber": "0x1096E8AA",
+    "DeviceLabelNumber": "7DF335BA8667"
+  }
+}

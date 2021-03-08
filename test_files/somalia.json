@@ -1,0 +1,223 @@
+{
+  "result_type": 15,
+  "light": 0,
+  "buf_length": 8,
+  "list_idx": 0,
+  "page_idx": 0,
+  "XML_buffer": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<!--Regula Reader result file-->\n<DOC_OCR_LEXICAL_ANALYSIS_DATA>\n\t<PageIndex>0</PageIndex>\n\t<Info>\n\t\t<DateTime>2021-02-24T15:21:33.000</DateTime>\n\t\t<TransactionID>435111bf-6d99-4dc6-8c92-5f1d4ba48e4f</TransactionID>\n\t\t<ComputerName>ANDI-BOYA</ComputerName>\n\t\t<UserName>SYSTEM</UserName>\n\t\t<SDKVersion>5.4.0.4930</SDKVersion>\n\t\t<Version>5.4</Version>\n\t\t<DeviceType>7017 (OV 5Mp)</DeviceType>\n\t\t<DeviceNumber>0x1096e8aa</DeviceNumber>\n\t\t<DeviceLabelSerialNumber>7DF335BA8667</DeviceLabelSerialNumber>\n\t</Info>\n\t<DateFormat>M/d/yyyy</DateFormat>\n\t<Document_Field_Analysis_Info>\n\t\t<FieldType>1</FieldType>\n\t\t<Type>1</Type>\n\t\t<LCID>0</LCID>\n\t\t<Field_MRZ/>\n\t\t<Field_RFID/>\n\t\t<Field_Barcode/>\n\t\t<Field_Visual>SOM</Field_Visual>\n\t\t<Matrix1>0</Matrix1>\n\t\t<Matrix2>0</Matrix2>\n\t\t<Matrix3>0</Matrix3>\n\t\t<Matrix4>0</Matrix4>\n\t\t<Matrix5>0</Matrix5>\n\t\t<Matrix6>0</Matrix6>\n\t\t<Matrix7>0</Matrix7>\n\t\t<Matrix8>0</Matrix8>\n\t\t<Matrix9>0</Matrix9>\n\t\t<Matrix10>0</Matrix10>\n\t</Document_Field_Analysis_Info>\n\t<Document_Field_Analysis_Info>\n\t\t<FieldType>4</FieldType>\n\t\t<Type>4</Type>\n\t\t<LCID>0</LCID>\n\t\t<Field_MRZ/>\n\t\t<Field_RFID/>\n\t\t<Field_Barcode/>\n\t\t<Field_Visual>1/1/2601</Field_Visual>\n\t\t<Matrix1>0</Matrix1>\n\t\t<Matrix2>0</Matrix2>\n\t\t<Matrix3>2</Matrix3>\n\t\t<Matrix4>0</Matrix4>\n\t\t<Matrix5>0</Matrix5>\n\t\t<Matrix6>0</Matrix6>\n\t\t<Matrix7>0</Matrix7>\n\t\t<Matrix8>0</Matrix8>\n\t\t<Matrix9>0</Matrix9>\n\t\t<Matrix10>0</Matrix10>\n\t</Document_Field_Analysis_Info>\n\t<Document_Field_Analysis_Info>\n\t\t<FieldType>38</FieldType>\n\t\t<Type>38</Type>\n\t\t<LCID>0</LCID>\n\t\t<Field_MRZ/>\n\t\t<Field_RFID/>\n\t\t<Field_Barcode/>\n\t\t<Field_Visual>Somalia</Field_Visual>\n\t\t<Matrix1>0</Matrix1>\n\t\t<Matrix2>0</Matrix2>\n\t\t<Matrix3>0</Matrix3>\n\t\t<Matrix4>0</Matrix4>\n\t\t<Matrix5>0</Matrix5>\n\t\t<Matrix6>0</Matrix6>\n\t\t<Matrix7>0</Matrix7>\n\t\t<Matrix8>0</Matrix8>\n\t\t<Matrix9>0</Matrix9>\n\t\t<Matrix10>0</Matrix10>\n\t</Document_Field_Analysis_Info>\n\t<Document_Field_Analysis_Info>\n\t\t<FieldType>57</FieldType>\n\t\t<Type>57</Type>\n\t\t<LCID>0</LCID>\n\t\t<Field_MRZ/>\n\t\t<Field_RFID/>\n\t\t<Field_Barcode/>\n\t\t<Field_Visual>AAH000H</Field_Visual>\n\t\t<Matrix1>0</Matrix1>\n\t\t<Matrix2>0</Matrix2>\n\t\t<Matrix3>0</Matrix3>\n\t\t<Matrix4>0</Matrix4>\n\t\t<Matrix5>0</Matrix5>\n\t\t<Matrix6>0</Matrix6>\n\t\t<Matrix7>0</Matrix7>\n\t\t<Matrix8>0</Matrix8>\n\t\t<Matrix9>0</Matrix9>\n\t\t<Matrix10>0</Matrix10>\n\t</Document_Field_Analysis_Info>\n\t<Document_Field_Analysis_Info>\n\t\t<FieldType>58</FieldType>\n\t\t<Type>58</Type>\n\t\t<LCID>0</LCID>\n\t\t<Field_MRZ/>\n\t\t<Field_RFID/>\n\t\t<Field_Barcode/>\n\t\t<Field_Visual>HD O B</Field_Visual>\n\t\t<Matrix1>0</Matrix1>\n\t\t<Matrix2>0</Matrix2>\n\t\t<Matrix3>0</Matrix3>\n\t\t<Matrix4>0</Matrix4>\n\t\t<Matrix5>0</Matrix5>\n\t\t<Matrix6>0</Matrix6>\n\t\t<Matrix7>0</Matrix7>\n\t\t<Matrix8>0</Matrix8>\n\t\t<Matrix9>0</Matrix9>\n\t\t<Matrix10>0</Matrix10>\n\t</Document_Field_Analysis_Info>\n\t<Document_Field_Analysis_Info>\n\t\t<FieldType>70</FieldType>\n\t\t<Type>70</Type>\n\t\t<LCID>0</LCID>\n\t\t<Field_MRZ/>\n\t\t<Field_RFID/>\n\t\t<Field_Barcode/>\n\t\t<Field_Visual>MDREVAN 00 0000</Field_Visual>\n\t\t<Matrix1>0</Matrix1>\n\t\t<Matrix2>0</Matrix2>\n\t\t<Matrix3>2</Matrix3>\n\t\t<Matrix4>0</Matrix4>\n\t\t<Matrix5>0</Matrix5>\n\t\t<Matrix6>0</Matrix6>\n\t\t<Matrix7>0</Matrix7>\n\t\t<Matrix8>0</Matrix8>\n\t\t<Matrix9>0</Matrix9>\n\t\t<Matrix10>0</Matrix10>\n\t</Document_Field_Analysis_Info>\n\t<Document_Field_Analysis_Info>\n\t\t<FieldType>136</FieldType>\n\t\t<Type>136</Type>\n\t\t<LCID>0</LCID>\n\t\t<Field_MRZ/>\n\t\t<Field_RFID/>\n\t\t<Field_Barcode/>\n\t\t<Field_Visual>00986</Field_Visual>\n\t\t<Matrix1>0</Matrix1>\n\t\t<Matrix2>0</Matrix2>\n\t\t<Matrix3>0</Matrix3>\n\t\t<Matrix4>0</Matrix4>\n\t\t<Matrix5>0</Matrix5>\n\t\t<Matrix6>0</Matrix6>\n\t\t<Matrix7>0</Matrix7>\n\t\t<Matrix8>0</Matrix8>\n\t\t<Matrix9>0</Matrix9>\n\t\t<Matrix10>0</Matrix10>\n\t</Document_Field_Analysis_Info>\n\t<Document_Field_Analysis_Info>\n\t\t<FieldType>138</FieldType>\n\t\t<Type>138</Type>\n\t\t<LCID>0</LCID>\n\t\t<Field_MRZ/>\n\t\t<Field_RFID/>\n\t\t<Field_Barcode/>\n\t\t<Field_Visual>05PAP</Field_Visual>\n\t\t<Matrix1>0</Matrix1>\n\t\t<Matrix2>0</Matrix2>\n\t\t<Matrix3>0</Matrix3>\n\t\t<Matrix4>0</Matrix4>\n\t\t<Matrix5>0</Matrix5>\n\t\t<Matrix6>0</Matrix6>\n\t\t<Matrix7>0</Matrix7>\n\t\t<Matrix8>0</Matrix8>\n\t\t<Matrix9>0</Matrix9>\n\t\t<Matrix10>0</Matrix10>\n\t</Document_Field_Analysis_Info>\n\t<Document_Field_Analysis_Info>\n\t\t<FieldType>142</FieldType>\n\t\t<Type>142</Type>\n\t\t<LCID>0</LCID>\n\t\t<Field_MRZ/>\n\t\t<Field_RFID/>\n\t\t<Field_Barcode/>\n\t\t<Field_Visual>DYADZIEV</Field_Visual>\n\t\t<Matrix1>0</Matrix1>\n\t\t<Matrix2>0</Matrix2>\n\t\t<Matrix3>0</Matrix3>\n\t\t<Matrix4>0</Matrix4>\n\t\t<Matrix5>0</Matrix5>\n\t\t<Matrix6>0</Matrix6>\n\t\t<Matrix7>0</Matrix7>\n\t\t<Matrix8>0</Matrix8>\n\t\t<Matrix9>0</Matrix9>\n\t\t<Matrix10>0</Matrix10>\n\t</Document_Field_Analysis_Info>\n\t<Document_Field_Analysis_Info>\n\t\t<FieldType>183</FieldType>\n\t\t<Type>183</Type>\n\t\t<LCID>0</LCID>\n\t\t<Field_MRZ/>\n\t\t<Field_RFID/>\n\t\t<Field_Barcode/>\n\t\t<Field_Visual>IDO</Field_Visual>\n\t\t<Matrix1>0</Matrix1>\n\t\t<Matrix2>0</Matrix2>\n\t\t<Matrix3>0</Matrix3>\n\t\t<Matrix4>0</Matrix4>\n\t\t<Matrix5>0</Matrix5>\n\t\t<Matrix6>0</Matrix6>\n\t\t<Matrix7>0</Matrix7>\n\t\t<Matrix8>0</Matrix8>\n\t\t<Matrix9>0</Matrix9>\n\t\t<Matrix10>0</Matrix10>\n\t</Document_Field_Analysis_Info>\n\t<Document_Field_Analysis_Info>\n\t\t<FieldType>434</FieldType>\n\t\t<Type>434</Type>\n\t\t<LCID>0</LCID>\n\t\t<Field_MRZ/>\n\t\t<Field_RFID/>\n\t\t<Field_Barcode/>\n\t\t<Field_Visual>1</Field_Visual>\n\t\t<Matrix1>0</Matrix1>\n\t\t<Matrix2>0</Matrix2>\n\t\t<Matrix3>0</Matrix3>\n\t\t<Matrix4>0</Matrix4>\n\t\t<Matrix5>0</Matrix5>\n\t\t<Matrix6>0</Matrix6>\n\t\t<Matrix7>0</Matrix7>\n\t\t<Matrix8>0</Matrix8>\n\t\t<Matrix9>0</Matrix9>\n\t\t<Matrix10>0</Matrix10>\n\t</Document_Field_Analysis_Info>\n</DOC_OCR_LEXICAL_ANALYSIS_DATA>\n",
+  "ListVerifiedFields": {
+    "Count": 11,
+    "pFieldMaps": [
+      {
+        "FieldType": 1,
+        "wFieldType": 1,
+        "wLCID": 0,
+        "Field_Visual": "SOM",
+        "Matrix": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "FieldType": 4,
+        "wFieldType": 4,
+        "wLCID": 0,
+        "Field_Visual": "1/1/2601",
+        "Matrix": [
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "FieldType": 38,
+        "wFieldType": 38,
+        "wLCID": 0,
+        "Field_Visual": "Somalia",
+        "Matrix": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "FieldType": 57,
+        "wFieldType": 57,
+        "wLCID": 0,
+        "Field_Visual": "AAH000H",
+        "Matrix": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "FieldType": 58,
+        "wFieldType": 58,
+        "wLCID": 0,
+        "Field_Visual": "HD O B",
+        "Matrix": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "FieldType": 70,
+        "wFieldType": 70,
+        "wLCID": 0,
+        "Field_Visual": "MDREVAN 00 0000",
+        "Matrix": [
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "FieldType": 136,
+        "wFieldType": 136,
+        "wLCID": 0,
+        "Field_Visual": "00986",
+        "Matrix": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "FieldType": 138,
+        "wFieldType": 138,
+        "wLCID": 0,
+        "Field_Visual": "05PAP",
+        "Matrix": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "FieldType": 142,
+        "wFieldType": 142,
+        "wLCID": 0,
+        "Field_Visual": "DYADZIEV",
+        "Matrix": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "FieldType": 183,
+        "wFieldType": 183,
+        "wLCID": 0,
+        "Field_Visual": "IDO",
+        "Matrix": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "FieldType": 434,
+        "wFieldType": 434,
+        "wLCID": 0,
+        "Field_Visual": "1",
+        "Matrix": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "pDateFormat": "M/d/yyyy"
+  },
+  "Info": {
+    "DateTime": "2021-02-24T15:21:33.846",
+    "TransactionID": "435111bf-6d99-4dc6-8c92-5f1d4ba48e4f",
+    "ComputerName": "ANDI-BOYA",
+    "UserName": "SYSTEM",
+    "SDKVersion": "5.4.0.4930",
+    "FileVersion": "5.4",
+    "DeviceType": "7017 (OV 5Mp)",
+    "DeviceNumber": "0x1096E8AA",
+    "DeviceLabelNumber": "7DF335BA8667"
+  }
+}
